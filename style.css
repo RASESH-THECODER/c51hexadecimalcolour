@@ -1,12 +1,12 @@
 h1{
-    color:red;
+    color:blue;
 }
-/**{
+*{
     border:solid;
-}*/
+}
 .header{
-    background-color:yellow;
-    display:flex;
+    background-color:blueviolet
+    displayflex;
     justify-content:space-between;
 }
 .grid{
@@ -18,9 +18,8 @@ h1{
     display:flex;
     justify-content:flex-end;
 }
-
 body{
-    background-color:#996599;
+    
 
-    background-image:url("image.png");
+    background-image:url("SVDD.jfif");
 }
